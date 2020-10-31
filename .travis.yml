@@ -26,7 +26,7 @@ cache:
 
 addons:
   sonarcloud:
-    organization: uuf6429-github
+    organization: fbertolotti
     token: $SONAR_TOKEN
 
 install:
