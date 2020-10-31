@@ -1,5 +1,5 @@
 {
-    "name": "uuf6429/rune",
+    "name": "fbertolotti/rune",
     "type": "library",
     "description": "PHP Rule Engine.",
     "keywords": ["rule", "engine", "expression", "uuf6429"],
